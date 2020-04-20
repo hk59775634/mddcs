@@ -8,3 +8,6 @@ Mutual distributed domain cache server
 节点之间通过doh协议传递缓存内容。
 
 任何人都可以创建主服务器和节点服务器。
+
+
+2020-04-20
